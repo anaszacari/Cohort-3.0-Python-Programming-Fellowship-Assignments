@@ -6,4 +6,4 @@ This is a repo for Arewa Data Science Journey
 - Tali
 - Fifa
 # Links
-[Hassamad Website]{google.com}
+[Hassamad Website](google.com)

@@ -5,3 +5,5 @@ This is a repo for Arewa Data Science Journey
 - Anas
 - Tali
 - Fifa
+# Links
+[Hassamad Website]{google.com}
